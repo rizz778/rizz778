@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvir Arora</h1>
 <h3 align="center">Suvir Arora is a passionate Full-Stack Developer & AI/ML Enthusiast pursuing a B.Tech in CSE (AI) at NSUT, New Delhi (2026). He has expertise in MERN & Next.js, cloud deployment, and AI-driven applications, with projects like Sentio (AI counselor), Imaginify (GenAI SaaS), MedCortico (AI diagnosis), and TravelPals (social platform). His tech stack includes Next.js, React.js, Node.js, MongoDB, TensorFlow, PyTorch, OpenAI API, and WebSockets. With 1100+ DSA problems solved and a LeetCode max rating of 1760, he is open to Software, AI/ML, and Full-Stack roles in AI, SaaS, FinTech, and Healthcare Tech.</h3>
 
-- 🔭 I’m currently working on [Sentio](emot-chtabot-2.onrender.com)
 
 - 🌱 I’m currently learning **Next.js, Fine-tuning LLMs, Advanced Machine Learning, Distributed Computing, Scalable System Design.**
 
@@ -11,7 +10,6 @@
 
 - 📫 How to reach me **arorasuvir52@gmail.com**
 
-- ⚡ Fun fact **I told my friend to submit leetcode daily problem solution on my account while i was on trip just to let my streak continue:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
